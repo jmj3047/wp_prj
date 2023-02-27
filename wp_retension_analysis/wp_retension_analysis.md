@@ -22,20 +22,20 @@
 ## 🖌️Details
 
 
-![](IMG_2120.png)
+![](wp_retension_analysis/IMG_2120.png)
 
-![](IMG_2121.png)
+![](wp_retension_analysis/IMG_2121.png)
 
-![](IMG_2122.png)
+![](wp_retension_analysis/IMG_2122.png)
 
-![](IMG_2123.png)
+![](wp_retension_analysis/IMG_2123.png)
 
-![](IMG_2124.png)
+![](wp_retension_analysis/IMG_2124.png)
 
-![](IMG_2125.png)
+![](wp_retension_analysis/IMG_2125.png)
 
-![](IMG_2126.png)
+![](wp_retension_analysis/IMG_2126.png)
 
-![](IMG_2127.png)
+![](wp_retension_analysis/IMG_2127.png)
 
-![](IMG_2128.png)
+![](wp_retension_analysis/IMG_2128.png)
