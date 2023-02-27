@@ -60,12 +60,12 @@
 
 🔎**Looker Studio**
 
-![](wp_dashboard/Untitled.png)
+![](Untitled.png)
 
-![](wp_dashboard/Untitled%201.png)
+![](Untitled%201.png)
 
-![](wp_dashboard/Untitled%202.png)
+![](Untitled%202.png)
 
 🔥 **그라파나**
 
-![](wp_dashboard/Untitled%203.png)
+![](Untitled%203.png)
